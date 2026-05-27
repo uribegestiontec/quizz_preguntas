@@ -12,9 +12,9 @@ Pasos para su ejecucion
 - Tener instalado el Java Development Kit (JDK) (versión 17 o superior).
 - Tener instalado el compilador de Kotlin o un entorno compatible (como Android Studio / IntelliJ IDEA).
 
-### Pasos exactos en la terminal
+### Pasos en la terminal
 
-1. Clonar el repositorio
+1. Clonar el repositorio de github.
   git clone [https://github.com/UribeGestionTEC/Quizz_preguntas.git](https://github.com/UribeGestionTEC/Quizz_preguntas.git)
 
 2. Acceder a la carpeta del proyecto.
@@ -27,7 +27,7 @@ Pasos para su ejecucion
    java -jar TriviaConsole.jar
 
 ### Funcionalidades principales
-- Trivia Interactiva Completa: Generara 10 preguntas históricas  de opción múltiple de forma secuencial.
+- Trivia Interactiva Completa: El proyecto generara 10 preguntas históricas  de opción múltiple de forma secuencial.
 
 - Validación de Entradas Robustas: El sistema previene errores de ejecución evaluando que el usuario ingrese únicamente valores numéricos válidos dentro del rango de las opciones de la pregunta.
 
@@ -60,12 +60,16 @@ y al leer la teoria y como se hacia en un principio se vehia facil pero a medida
 y me resultaba un poco estresante ademas de la logica de kotlin pasaba lo mismo pero gracias a diferentes factores supe como organizarlos mejor.
 
 ¿Cómo llegaste a entenderlo?
+
 - Logre entender las cuestiones de kotlin gracias a varios videos que me apoyaron en el desarrollo del programa, adeas recibi mucho apoyo de amigos, compañeros e integrantes del equipo
  que apoyaron a resolver muchas dudas y errores del software y hardware que presentaba.
   
-Si tuvieras que mejorar o ampliar este proyecto, ¿qué le agregarías y por qué?     
+Si tuvieras que mejorar o ampliar este proyecto, ¿qué le agregarías y por qué? 
+
 -Mejoraria la persistencia de los datos en las aplicaciones ya que al momento de el cierre del programa el progreso que este de cada jugador se perdera de no ser de un servidor local
+
 -Añadiria una mayor cantidad de preguntas en el sistema para que los jugadores puedan tener mas puntuacion ademas de preguntas habiertas para mayor emocion
+
 -Crearia una interfaz grafica dinamica y divertida para los usuarios tengan una mejor experiencia
 
 ¿Qué aprendiste de este proyecto que no aprendiste solo leyendo o viendo videos?
