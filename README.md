@@ -67,8 +67,9 @@ Si tuvieras que mejorar o ampliar este proyecto, ¿qué le agregarías y por qu�
 -Mejoraria la persistencia de los datos en las aplicaciones ya que al momento de el cierre del programa el progreso que este de cada jugador se perdera de no ser de un servidor local
 -Añadiria una mayor cantidad de preguntas en el sistema para que los jugadores puedan tener mas puntuacion ademas de preguntas habiertas para mayor emocion
 -Crearia una interfaz grafica dinamica y divertida para los usuarios tengan una mejor experiencia
+
 ¿Qué aprendiste de este proyecto que no aprendiste solo leyendo o viendo videos?
-- Aprendi que uchas cosas que tiene la aplicacion o el software son directaente encontrados dentro de la aplicacion usada, ademas de que a medida de programar
-cada parte lograba enyender y buscar patrones dentro del codigo fuente similres a otros lenguajes ya vistos como Java o similitudes a javascript que ma ayudaron
+
+- Aprendi que uchas cosas que tiene la aplicacion o el software son directaente encontrados dentro de la aplicacion usada, ademas de que a medida de programar cada parte lograba enyender y buscar patrones dentro del codigo fuente similres a otros lenguajes ya vistos como Java o similitudes a javascript que ma ayudaron
 a mejorar mi aprendisaje.
  
